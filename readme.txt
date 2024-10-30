@@ -1,0 +1,1 @@
+This plugin allows the administrator to configure wich roles can access de admin area and view the superior admin bar.
